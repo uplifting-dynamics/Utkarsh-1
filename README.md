@@ -1,2 +1,3 @@
 # Utkarsh-1
-This is m,y fist Git repository
+This is my fist Git repository
+Author- Utkarsh Dixit
